@@ -1,8 +1,8 @@
-Page load time is 1.61sec
+Page load time is 1.61sec.
 i found the page load time of my app using following steps
 1-> inside inspect goto network
 2-> in network reload your page
-3-> note the finish time that is 2.41sec for my app.
+3-> note the load time that is 1.61sec for my app.
 
 
 
